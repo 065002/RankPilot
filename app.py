@@ -52,7 +52,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🚀 RankPilot")
+st.title("🚀 Rank__Pilot")
 st.caption("AI-powered SEO audit tool")
 
 st.markdown("---")
